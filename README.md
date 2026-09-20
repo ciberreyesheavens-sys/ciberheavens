@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32426394/README.md)
 # Sitio web para negocio local de trámites y servicios
 
 Página de una sola sección de navegación (SPA con anclas) hecha únicamente con **HTML5, CSS3 y JavaScript vanilla**.
